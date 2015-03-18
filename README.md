@@ -1,7 +1,11 @@
 # sails-angular-resource
 Angular model CRUD allows you to use Sails.js's socket.io api
 
+### Install
 
+```
+bower install sails-angular-resource
+```
 
 ### How to use
 
