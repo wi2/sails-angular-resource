@@ -19,7 +19,7 @@ Create a CRUD service with a same name like your model in your api/model
 
 ```
 angular.module("app")
-.factory('Post', ['Post', [ 'SailsResource', function (SailsResource) {
+.factory('Post', [ 'SailsResource', function (SailsResource) {
   return new SailsResource('post');
 }]);
 ```
